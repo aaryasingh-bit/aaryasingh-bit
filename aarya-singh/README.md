@@ -7,7 +7,7 @@ Hi there , I'm Aarya
 
 • ☁️ Member of Cloud Computing Club & Career Connect Club
 
-• 📜 Pursuing NPTEL certificatio
+• 📜 Pursuing NPTEL certification
 
 • 🤖 Built a 6 DOF Robotic Arm
     (SolidWorks CAD design)
