@@ -1,15 +1,16 @@
-## Hi there 👋
+Hi there , I'm Aarya
 
-🎓 BTech CSE (AI) Student @ Galgotias University
+• 🎓 BTech CSE (AI) Student
+  @Galgotias University
 
-💻 Currently learning Java, C++, C and 
-exploring AI
+• 💻 Currently learning Java, C++, C     and exploring AI
 
-☁️ Member of Cloud Computing Club & Career Connect Club
+• ☁️ Member of Cloud Computing Club & Career Connect Club
 
-📜 Pursuing NPTEL certificatio
+• 📜 Pursuing NPTEL certificatio
 
-🤖 Built a 6 DOF Robotic Arm (SolidWorks CAD design)
+• 🤖 Built a 6 DOF Robotic Arm
+    (SolidWorks CAD design)
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on Linkedin 
 
