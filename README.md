@@ -10,5 +10,6 @@ exploring AI
 📜 Pursuing NPTEL certificatio
 
 🤖 Built a 6 DOF Robotic Arm (SolidWorks CAD design)
+
 📫 Connect with me on LinkedIn
 
